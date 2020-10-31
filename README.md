@@ -9,6 +9,7 @@ Here is the list of issues one need to work on -
 3. Improving accuracy. 
 4. Deployment on Flask, Django etc.
 5. Music Player application which recommends music based on genre selected & other additional things which you can make.
+6. You can add new genres.
  
 
 References - 
